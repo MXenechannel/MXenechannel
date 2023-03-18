@@ -10,7 +10,7 @@ variable        lmp_data string data.Mxene # File name
 
 # temperature(K)
 variable        T equal 325 #average temperature of channel
-
+test
 # timestep(ps)
 variable        dt1 equal "1" #fs
 
