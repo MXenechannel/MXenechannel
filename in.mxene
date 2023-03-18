@@ -117,8 +117,8 @@ pair_coeff ${K} ${Ow} 0.125184 3.25
 pair_coeff ${O} ${O} 0.1554 3.165541
 pair_coeff ${O_OH} ${O_OH} 0.1554 3.165541
 pair_coeff ${Ow} ${Ow} 0.1554 3.165541
-pair_coeff ${Ti} ${Ti} 0.6087 0.19565
-pair_coeff ${Ti_in} ${Ti_in} 0.6087 0.19565
+pair_coeff ${Ti} ${Ti} 0.6087 1.9565
+pair_coeff ${Ti_in} ${Ti_in} 0.6087 1.9565
 pair_coeff ${W} ${W} 0.1 3.0
 pair_modify mix arithmetic #tail yes
 special_bonds lj 0. 0. 0. coul 0. 0. 0.0 
